@@ -1,0 +1,1 @@
+Hi welcome to the azuredevops. this is the linux commands we need to aware for the git 
